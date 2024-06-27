@@ -1,0 +1,50 @@
+
+[
+  { "name": "Grocery", "image": "https://i.pinimg.com/564x/6c/a8/f0/6ca8f02f56d48f0daf38063da995e763.jpg" },
+  { "name": "Mobiles", "image": "https://i.pinimg.com/564x/13/90/56/1390562493186983e0426ed9d322d7d1.jpg" },
+  {
+      "name": "Fashion",
+      "image": "https://i.pinimg.com/564x/75/13/78/7513787603f5e5113399a466c701b879.jpg",
+      "subcategories": [
+          {
+              "name": "Men",
+              "subcategories": [
+                  { "name": "Ethnic Wear" },
+                  { "name": "Western Wear" }
+              ]
+          },
+          { "name": "Women" },
+          { "name": "Kids" }
+      ]
+  },
+  {
+      "name": "Electronics",
+      "image": "https://i.pinimg.com/564x/01/c4/15/01c4158c5b82cac63e497a2d4c8d498d.jpg",
+      "subcategories": [
+          { "name": "Laptops" },
+          { "name": "Televisions" },
+          { "name": "Cameras" }
+      ]
+  },
+  {
+      "name": "Home & Furniture",
+      "image": "https://i.pinimg.com/474x/3f/77/4d/3f774d32a0fe1b7f1152426a00bbf368.jpg",
+      "subcategories": [
+          { "name": "Kitchen" },
+          { "name": "Living Room" },
+          { "name": "Bedroom" }
+      ]
+  },
+  { "name": "Appliances", "image": "https://i.pinimg.com/564x/49/00/bf/4900bf9f52cc4028460dd668965e3760.jpg" },
+  { "name": "Travel", "image": "https://i.pinimg.com/564x/05/63/45/056345307771dee34e8fc6e6bf62fe62.jpg" },
+  {
+      "name": "Beauty, Toys & More",
+      "image": "https://i.pinimg.com/564x/8d/b9/5d/8db95d1a6e9e068c668f4091d17f0d2b.jpg",
+      "subcategories": [
+          { "name": "Beauty" },
+          { "name": "Toys" },
+          { "name": "Baby Care" }
+      ]
+  },
+  { "name": "Two Wheelers", "image": "https://i.pinimg.com/564x/9d/92/d8/9d92d8fac525f757cd939cab6624268a.jpg" }
+]
